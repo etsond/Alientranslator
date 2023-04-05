@@ -32,5 +32,3 @@ $ javac -cp .:junit-4.XX.jar AlienTranslatorTest.java
 $ java -cp .:junit-4.XX.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore AlienTranslatorTest
 ```
 > Note that you need to replace XX with the version number of JUnit you have installed.
-## Credits
-code Block https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
